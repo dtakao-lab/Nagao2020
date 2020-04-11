@@ -1,6 +1,7 @@
 This repository contains the source code used in our paper: Nagao et al., 2020, Molecular Biology of the Cell (accepted; information to be updated). The code is provided as JupyterLab script files (.ipynb).
 Before running the scripts, prepare directories as follows.
- 
+
+<img src="./directory.jpg" width="240px">
 
 Then, run the scripts in the following order.
 
