@@ -17,4 +17,4 @@ With this script, hyper parameters are searched in the designated range by Bayes
 **4. FunctionalModel**  
 This script performs learning to construct a functional CNN model with a given hyper parameter set. The results including the model architecture and learning curve can be saved.
   
-The image data and tuned models used in the paper are available from our Zenodo repository (10.5281/zenodo.3745864). Annotated and split image data are provided as sets of four NumPy array files converted by above script 2. These sets can be immediately loaded by above scripts 3 and 4. The files for the tuned models were named accordingly to those appeared in the paper (e.g., Model N1).
+The image data and tuned models used in the paper are available from our Zenodo repository (https://doi.org/10.5281/zenodo.3745864). Annotated and split image data are provided as sets of four NumPy array files converted by above script 2. These sets can be immediately loaded by above scripts 3 and 4. The files for the tuned models were named accordingly to those appeared in the paper (e.g., Model N1).
